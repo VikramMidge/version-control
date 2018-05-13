@@ -21,3 +21,5 @@ manually?
 Added line for easy-mode branch
 
 Added Coins Branch
+
+Added more coins to Coins branch
