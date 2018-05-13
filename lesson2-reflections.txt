@@ -19,3 +19,5 @@ What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
 Added line for easy-mode branch
+
+Added Coins Branch
